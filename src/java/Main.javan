@@ -1,0 +1,1 @@
+public class Launcher{\npublic static void main(String... args){\nSystem.out.println(Hello world);\n}\n}\n
